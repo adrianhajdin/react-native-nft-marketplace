@@ -1,0 +1,17 @@
+### ReactNative ###
+# React Native Stack Base
+.expo
+__generated__
+
+# Log/OS Files
+*.log
+
+# Logs
+logs
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+#vscode
+.vscode
